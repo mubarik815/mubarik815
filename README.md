@@ -6,7 +6,7 @@
 
 
 
-DATA SCIENTIST+Public health Reasercher
+DATA SCIENTIST and Public health Reasercher
 
 
 **I am a data scientist and public health researcher with a strong foundation in Python, R, SQL, and Power BI for data analysis and visualization. I have a deep enthusiasm for machine learning, deep learning, and AI research—especially in the context of healthcare. With a solid background in public health, I bring a unique ability to understand, interpret, and extract meaningful insights from complex datasets. My passion lies in applying data-driven approaches to solve real-world health challenges.
